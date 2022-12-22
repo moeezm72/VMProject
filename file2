@@ -1,1 +1,11 @@
+
 This ismy test file 2
+
+
+a=cat 
+b=dog
+print(a>b)
+print(a<b)
+print(a>=b)
+print(a<=)
+
